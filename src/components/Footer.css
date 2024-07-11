@@ -1,0 +1,24 @@
+.Footer{
+    height: auto;
+    width: 100%;
+    background-color: black;
+    margin-bottom: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.FooterP{
+    color: azure;
+}
+.Footer li {
+    font-size: large;
+    list-style: none;
+    color: azure;
+}
+.Footer li:hover{
+    background-color: azure;
+    color: black;
+}

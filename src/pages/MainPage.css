@@ -1,0 +1,13 @@
+
+
+.TituloPaginaPrincipal{
+    background-image: url("../../public/Racing-trainers-banner.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

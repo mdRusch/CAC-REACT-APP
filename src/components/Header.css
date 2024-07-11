@@ -1,0 +1,31 @@
+.Header{
+    height: auto;
+    width: 100%;
+    background-color: black;
+    margin-top: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+    .Titulo{
+        color: azure;
+        font-size: 2.5rem;
+        margin-left: 25px;
+    }
+    .ContenedorOpcionesUsuario{
+     display: flex;
+     flex-direction: row;     
+    }
+
+    .Header  li{
+        list-style: none;
+        color: azure;
+        font-size: larger;
+        margin-right: 25px;
+    }
+    .Header li:hover{
+        background-color: azure;
+        color: black;
+    }
